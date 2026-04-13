@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "astute-pride-493212-u4",
+  "private_key_id": "ca3d3d4d6fd7875dc50c9d15e638a94b1e5d9660",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAg6to2xuocJNn\nq/kk1vS8kx/fEYFoB7YsvtYrmKENRlWyro1M2/xlJy3iHRwY+G0JvcAC2gv7T09Y\nuv4uC8ZroudUoPXqgJFCQjTbuaahYDta+cqnRIjc9EsBs8015tdJTNCxDZ0DBKt7\npj5z2vdhevPacceZ7nzW6valB5wzvllkeWNyWSas7pfn2F7zu3NtUOdElvNna4oo\nGEXqhtRw2f14jOkqc3DE5/ZAUTYtP54JtPBE1ZhX5nH6kkmMba5/umRfdhCLjxTn\nWA0tOb/UEbGf9cv8entv+8Ig+tSkN4gJVAoI73wIQYqf4xFIk5q1jjhjIIBGd2p5\nBlSlq68rAgMBAAECggEASnfka1guV7bMXlL4uhZobzWeI4S7AQnSn3ZmlFCjI+Zs\nKgU5ZVzHQj2okwndn48hZp4+0xuTfPAN6m3S+u7VHzfRsjvdRIvdJLtFhSVIXq5B\n54wupwtswcPB6/OoUsxrxM/w/jwc21kIGHmTOO+ft9Z+06YlptbI9b3IEMhj1OOF\n0ikCKA3YmTOfLIhCLtAGCE8mcbBwd4+F05OJmvcUFGHfcl7M5FVHvt/xIS8+DIVP\nZq37C72xZwQLew9NEFJYVsMGM0In8heSNcWjUGTFYwIdbeAnk5qjKIEkJIeDqxSM\nkqW5dm/Pqekgo2vx/A1Jr2R/ic2INDvEYW/z2dri+QKBgQDr20PEqsT0DMu5VrsP\nE6KVhS9N2l0GxwvICkqujX4D31aqL+g+7ZWBsDszMNgDKzSA24T3FdObpVPrAkmV\n+2qZ2FB7VViNg2oVyJ+EaAjwMjmwFScF6ZEIwik17ab1vo7rmz9Qtb2TA22k46Lg\nvai0QrYDl8kHIUio16wtL0mZtwKBgQDQ9McFdSrTikqh5Srv+MuYx/TbRvRQ0i23\nuW7l/kF3HRx8nQLots+x0smAXtoPHHeCUwWYCqL4s5ukEmZzFUETu+OlDjD9P4IC\nGwlZdbTrD6q9yxjhR+pRnbFMO0nZ7Dr6aYN4UjPbsSft46C+pRROOJ3J6WSufxuL\nGQsC8GmmLQKBgQDWCH/CLDpZQndp9NQCBY6IY3mfC+dZrC371aMaLlrKBtYt0RXQ\nbWg8bYH7nXqZvY6C1TMfytXiLDEwVj4S9jox7IR0t+mJWlVd+VcRIBvkZZ/GNBva\nmK++I/yj7MuTvN8T3imiA5tKm1TXyp/XlSVQmC12qzqJ1uGKH1YnFv+SlwKBgEkZ\niNKI9c2BcLCIamf/IsK1GRzpCqmHjcTbU0eUljRkc8XIa+8bnTc5ZZLKHADzVX+7\nKZbSCcd1lfplEYArLFQKBA6HE25VHFc+PBwWyI7/MR0qgu606O1afF8N0r0xHkTi\nSsL6BvhRVoWrf12ShLMErXaodrdw8iLMRQTnNB6VAoGANNw6p6WC2tNsHw6+013t\npb7LsSTGA7PzJH7Gy5qhvDz+oADSb2bA8ttMMDrlTqe5mE3/iFvjZqZFarDLFQs1\nqiEQvLNj6BCCieRYZXCV5iQCdYiOtpDcBEB/kfWI5qaD9heCtWOwBEF6AeUs0zpd\nU34ZTdt45SUccBjvL6Z27Fk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "technika-bot@astute-pride-493212-u4.iam.gserviceaccount.com",
+  "client_id": "106578703616561802951",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/technika-bot%40astute-pride-493212-u4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
